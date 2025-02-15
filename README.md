@@ -1,5 +1,5 @@
 # Data Analysis-Toolpack-Excel -- Descriptive-Statistics.
-In this Assignemtn through I learned Excel Most useful Function of Data Analysis Toolpack. In this Descriptive Analysis through we can find mean , median, mode, standard deviation, max, min, sum, count, a once. its helpful for analysis data
+In this Assignment  through I learned Excel Most useful Function of Data Analysis Toolpack. Using DA Toolpack  Descriptive Analysis through we can find mean , median, mode, standard deviation, max, min, sum, count, a once. it's helpful for analysis data
 
 **Data Analysis Tool Pack -  Discriptive Statstics**
 Dataset : Columns - Customer ID,	Gender,	Product_Category,	Customer_Segment,	Payment_Method,,Region,	City,	Sales_Channel	Order_Status,	Sales,	Quantity Sold,	Discount Rate,	Delivery_Days,	Profit Margin.
